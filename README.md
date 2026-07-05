@@ -25,7 +25,7 @@
 
 ---
 
-## `// ABOUT`
+## `ABOUT`
 
 ```yaml
 name:       Gaurav Gaisenn
@@ -43,7 +43,7 @@ open_to:
 
 ---
 
-## `// PROJECTS`
+## `PROJECTS`
 
 ### [`ggalloc`](https://github.com/ggaisenn/ggalloc) — Custom Dynamic Memory Allocator
 
@@ -73,7 +73,7 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
 ---
 
 
-## `// TECH STACK`
+## `TECH STACK`
 
 <div align="center">
 
@@ -99,7 +99,7 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
 
 ---
 
-## `// STATS`
+## `STATS`
 
 <div align="center">
 
@@ -111,7 +111,7 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
 
 ---
 
-## `// ROADMAP`
+## `ROADMAP`
 
 ```
 
@@ -122,7 +122,7 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
 
 ---
 
-## `// CONNECT`
+## `CONNECT`
 
 <div align="center">
 
