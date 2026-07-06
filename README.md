@@ -105,7 +105,7 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ggaisenn&theme=dark&hide_border=true)](https://github.com/ggaisenn)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ggaisenn&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
