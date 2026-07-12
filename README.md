@@ -45,6 +45,36 @@ open_to:
 
 ## `PROJECTS`
 
+### [`ggcli`](https://github.com/ggaisenn/ggcli) — Custom CLI Tool
+
+```
+Language  │ Javascript
+Platform  │ URLs: Cross-Platform, Apps: macOS
+License   │ Apache-2.0 license
+Status    │ Active
+```
+
+A CLI tool built using Node.js that enables users to launch web links and local applications.
+
+### Current Status
+
+| Step | Feature                                      | Status  |
+| ---- | -------------------------------------------- | ------  |
+| 1    | Script binary entry (`bin/index.js`)         |  Done   |
+| 2    | Command-line arguments parsing (`arg`)       |  Done   |
+| 3    | Custom logging with color themes (`chalk`)   |  Done   |
+| 4    | Launcher command logic (`open`)              |  Done   |
+| 5    | Configuration file search (`cosmiconfig`)    |  Done   |
+| 6    | Global package execution links (`npm link`)  |  Done   |
+| 7    | Custom JSON Schema configuration rules       |  Done   |
+| 8    | Schema-based verification (`ajv`)            |  Done   |
+| 9    | Better validation logs (`better-ajv-errors`) |  Done   |
+| 10   | Namespace debugging flag (`debug`)           |  Done   |
+| 11	 | Cross-platform URL format validation	        |  Done   |
+| 12	 | Host system local app check (command-exists) |  Done   |
+| 13   | Cross-Platform App launcher                  | Process |  
+|      |--------- MORE FEATURES COMING SOON ----------|         |
+
 ### [`ggalloc`](https://github.com/ggaisenn/ggalloc) — Custom Dynamic Memory Allocator
 
 ```
@@ -56,7 +86,7 @@ Status    │ Active · v1.0
 
 A memory allocator built **from scratch** using raw POSIX system calls. Implements a custom heap manager with block splitting, memory coalescing, and free-list management. A deep-dive into how your OS actually hands memory to programs.
 
-## Current Status
+### Current Status
 
 | Step | Feature                    |Status|
 | ---- | -------------------------- |------|
