@@ -146,7 +146,8 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
 
 ```
 
-2026 ──┼── [ggalloc] Custom memory allocator
+2026 ──┼──  [ggcli] Custom CLI tool
+       │    [ggalloc] Custom memory allocator
        │    First open-source PRs merged
        │
 ```
