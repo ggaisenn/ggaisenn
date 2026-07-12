@@ -17,7 +17,7 @@
 ║   ╚██████╔╝██║  ██║ ██████╔  ██║  ██║ ██║  ██║  ╚████╔╝     ╚██████╔╝██║  ██║ ██║ ███████║███████╗██║ ╚████║██║ ╚████║   ║
 ║    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝   ╚═══╝       ╚═════╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝   ║
 ║                                                                                                                          ║ 
-║                                    Frontend Developer · B.Tech CSE · ABV-IIITM GWALIOR                                   ║
+║                                   Tooling Developer & Frontend · B.Tech CSE · ABV-IIITM GWALIOR                          ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
@@ -33,6 +33,7 @@ username:   ggaisenn
 role:       B.Tech CSE Student
 institute:  ABV-IIITM Gwalior, Madhya Pradesh
 focus:
+  - Developer Tooling (CLI Development, Node.js Scripting)
   - Frontend Web Development (HTML, CSS, JS)
 interests:
   - Low-level systems programming (C/C++, POSIX, memory management)
