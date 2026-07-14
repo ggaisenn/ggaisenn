@@ -74,7 +74,8 @@ A CLI tool built using Node.js that enables users to launch web links and local 
 | 11	 | Cross-platform URL format validation	          |  Done   |
 | 12	 | Host system local app check (`command-exists`) |  Done   |
 | 13   | `www.` protocol handling                       |  Done   |
-| 14   | Cross-Platform App launcher                    | Process |
+| 14   | macOS App Launch (e.g., `--open Slack`)        |  Done   |
+| 15   | Cross-Platform App launcher                    | Process |
 |      |---------- MORE FEATURES COMING SOON -----------|         |
 
 ### [`ggalloc`](https://github.com/ggaisenn/ggalloc) — Custom Dynamic Memory Allocator
