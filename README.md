@@ -25,6 +25,19 @@
 
 ---
 
+## `CONNECT`
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-GauravGaisenn-6366F1?style=for-the-badge)](https://gauravgaisenn.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-ggaisenn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggaisenn)
+[![Instagram](https://img.shields.io/badge/Instagram-gaisenn__talks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaisenn_talks/)
+[![YouTube](https://img.shields.io/badge/YouTube-gaisenn_talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gaisenntalks)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/gaurav_gaisenn)
+</div>
+
+---
+
 ## `ABOUT`
 
 ```yaml
@@ -155,18 +168,6 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
        │    First open-source PRs merged
        │
 ```
-
----
-
-## `CONNECT`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ggaisenn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggaisenn)
-[![Instagram](https://img.shields.io/badge/Instagram-gaisenn__talks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaisenn_talks/)
-[![YouTube](https://img.shields.io/badge/YouTube-gaisenn_talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gaisenntalks)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/gaurav_gaisenn)
-</div>
 
 ---
 
