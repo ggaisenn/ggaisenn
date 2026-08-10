@@ -46,10 +46,10 @@ username:   ggaisenn
 role:       B.Tech CSE Student
 institute:  ABV-IIITM Gwalior, Madhya Pradesh
 focus:
+  - Systems Programming
   - Developer Tooling (CLI Development, Node.js Scripting)
   - Frontend Web Development (HTML, CSS, JS)
 interests:
-  - Low-level systems programming (C/C++, POSIX, memory management)
   - Open-Source
 open_to:
   - Open-source contributions
