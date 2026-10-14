@@ -1,11 +1,5 @@
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ggaisenn&style=flat-square&color=0a84ff&label=PROFILE+VIEWS)](https://github.com/ggaisenn)
-
-</div>
-
-<div align="center">
-
 <pre>
 
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
