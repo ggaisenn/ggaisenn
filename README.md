@@ -110,33 +110,6 @@ A CLI tool built using Node.js that enables users to launch web links and local 
 | 15   | Cross-Platform App launcher                    | Process |
 |      |---------- MORE FEATURES COMING SOON -----------|         |
 
-### [`ggalloc`](https://github.com/ggaisenn/ggalloc) — Custom Dynamic Memory Allocator
-
-```
-Language  │ C++
-Platform  │ Unix (POSIX system calls)
-License   │ MIT
-Status    │ Active · v1.0
-```
-
-A memory allocator built **from scratch** using raw POSIX system calls. Implements a custom heap manager with block splitting, memory coalescing, and free-list management. A deep-dive into how your OS actually hands memory to programs.
-
-### Current Status
-
-| Step | Feature                    |Status|
-| ---- | -------------------------- |------|
-| 1    | Block metadata struct      | Done |
-| 2    | Alignment macros           | Done |
-| 3    | First-Fit search algorithm | Done |
-| 4    | OS memory request (`sbrk`) | Done |
-| 5    | Block splitting            | Done |
-| 6    | Core allocator (`ggalloc`) | Done |
-| 7    | GC Mark Phase              | Done |
-| 8    | GC Sweep Phase             | Done |
-| 9    | Manual free (`ggfree`)     | Done |
-| 10   | Coalescing (defrag)        | Done |
----
-
 
 ## `TECH STACK`
 
@@ -146,21 +119,27 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Web**
+**Backend & Networking**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Frontend & Visualization**
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
-
-**Tools**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 </div>
 
 ---
@@ -181,9 +160,10 @@ A memory allocator built **from scratch** using raw POSIX system calls. Implemen
 
 ```
 
-2026 ──┼──  [ggcli] Custom CLI tool
+2026 ──┼──  [ggthermalsync] EV thermal physics engine & telemetry pipeline
+       |    [ggcli] Custom CLI tool
        │    [ggalloc] Custom memory allocator
-       │    First open-source PRs merged
+       │     First open-source PRs merged
        │
 ```
 
