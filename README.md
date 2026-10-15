@@ -41,9 +41,8 @@ role:       B.Tech CSE Student
 institute:  ABV-IIITM Gwalior, Madhya Pradesh
 focus:
   - Systems Programming (C/C++)
-  - Developer Tooling (CLI Development, Node.js Scripting)
-  - Frontend Web Development (HTML, CSS, JS)
-interests:
+  - Real-Time Simulation Engines
+  - Developer Tooling (Node.js Scripting, CMake, Docker)
   - Open-Source
 open_to:
   - Open-source contributions
@@ -52,6 +51,32 @@ open_to:
 ---
 
 ## `PROJECTS`
+
+### [`ThermaSync-EV`](https://github.com/ggaisenn/ggthermalsync) — EV Thermal Simulation & Telemetry Pipeline
+
+```
+Language  │ C++17, Node.js, Three.js, Docker
+Platform  │ Cross-Platform / Docker Compose
+License   │ Apache-2.0
+Status    │ Completed · v1.0
+```
+
+![Engine-in-Action](profile/projects/1.avif)
+
+Real-Time Telemetry Engine simulating EV battery thermal behavior. 
+- C++17 physics core with PID cooling logic
+- Node.js TCP/WebSocket backend for safety validation and ring-buffer history.
+- Three.js/Chart.js 3D browser dashboard.
+
+## Status
+
+| Area | State | Includes |
+|---|---|---|
+| Core engine | Implemented | 16-cell thermal model, PID cooling control, safety override, TCP telemetry |
+| Telemetry backend | Implemented | TCP validation, ring-buffer history, HTTP API, WebSocket stream, safety triggers, simulation controls |
+| Dashboard | Implemented | Responsive views, 3D battery/coolant model, rolling charts, cell HUD, alerts, light/dark theme |
+| Fault injection | Implemented | Normal and overheat mock streams; Cell chaos scenario with backend and PID verification |
+| Docker Compose | Implemented | Engine, backend, and static dashboard services with local networking |
 
 ### [`ggcli`](https://github.com/ggaisenn/ggcli) — Custom CLI Tool
 
