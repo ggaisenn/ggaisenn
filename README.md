@@ -27,7 +27,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ggaisenn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggaisenn)
 [![Instagram](https://img.shields.io/badge/Instagram-gaisenn__talks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaisenn_talks/)
 [![YouTube](https://img.shields.io/badge/YouTube-gaisenn_talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gaisenntalks)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/gaurav_gaisenn)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ff8c00?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/gauravgaisenn/)
 </div>
 
 ---
@@ -52,6 +52,32 @@ open_to:
 
 ## `PROJECTS`
 
+### [`APEX-Compute`](https://github.com/ggaisenn/apex-compute) — Accelerated Parallel Execution XPU Compute
+
+```
+Language  │ C++20, Python 3.9+ (Companion Layer)
+Platform  │ Cross-Platform (ARM64 / x86-64)
+License   │ MIT
+Status    │ Active · Hacktoberfest
+```
+
+
+![Frontend](profile/projects/apexcompute.avif)
+
+A lightweight, bare-metal numerical engine that executes cache-tiled, explicitly vectorized matrix multiplication (GEMM) on commodity CPUs.
+
+- C++20 zero-dependency core featuring ARM NEON and AVX-512 SIMD vectorization.
+- Automated benchmarking (`apex-bench`) and differential verification suites (`apex-validate`).
+- Optional AI Companion Layer **Gemma 4** (via Gemini API) for natural-language intent parsing and result explanation.
+
+## Status
+
+| Area | State | Includes |
+|---|---|---|
+| Core Engine (`apex::gemm`) | Implemented | Cache-tiling, panel packing, ARM NEON / AVX-512 vector kernels |
+| Quality Layer | Implemented | JSON-serializing C++ runner binaries, performance profiling, and precision testing |
+| Companion Layer | Implemented | Natural-language intent translation, strict allow-list validation, and facts-first grounding |
+
 ### [`ThermaSync-EV`](https://github.com/ggaisenn/ggthermalsync) — EV Thermal Simulation & Telemetry Pipeline
 
 ```
@@ -61,14 +87,14 @@ License   │ Apache-2.0
 Status    │ Completed · v1.0
 ```
 
-![Engine-in-Action](profile/projects/1.avif)
+![Engine-in-Action](profile/projects/thermasync.avif)
 
 Real-Time Telemetry Engine simulating EV battery thermal behavior. 
 - C++17 physics core with PID cooling logic
 - Node.js TCP/WebSocket backend for safety validation and ring-buffer history.
 - Three.js/Chart.js 3D browser dashboard.
 
-## Status
+### Status
 
 | Area | State | Includes |
 |---|---|---|
