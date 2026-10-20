@@ -58,7 +58,7 @@ open_to:
 Language  │ C++20, Python 3.9+ (Companion Layer)
 Platform  │ Cross-Platform (ARM64 / x86-64)
 License   │ MIT
-Status    │ Active · Hacktoberfest
+Status    │ Active
 ```
 
 
