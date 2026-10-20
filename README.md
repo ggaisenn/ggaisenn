@@ -52,7 +52,7 @@ open_to:
 
 ## `PROJECTS`
 
-### [`APEX-Compute`](https://github.com/ggaisenn/apex-compute) — Accelerated Parallel Execution XPU Compute
+### [`APEX-Compute`](https://github.com/ggaisenn/apex_compute) — Accelerated Parallel Execution XPU Compute
 
 ```
 Language  │ C++20, Python 3.9+ (Companion Layer)
