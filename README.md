@@ -56,8 +56,8 @@ open_to:
 
 ```
 Language  │ C++20, Python 3.9+ (Companion Layer)
-Platform  │ Cross-Platform (ARM64 / x86-64)
-License   │ MIT
+Platform  │ Cross-Platform
+License   │ Apache-2.0 license
 Status    │ Active
 ```
 
@@ -83,7 +83,7 @@ A lightweight, bare-metal numerical engine that executes cache-tiled, explicitly
 ```
 Language  │ C++17, Node.js, Three.js, Docker
 Platform  │ Cross-Platform / Docker Compose
-License   │ Apache-2.0
+License   │ Apache-2.0 license
 Status    │ Completed · v1.0
 ```
 
